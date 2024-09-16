@@ -1,6 +1,6 @@
 # SEA21
 **14/09/24**
-**Fait parER ROUASSE Ayoub**
+**Fait par ER ROUASSE Ayoub**
 
 ## Résumé
 Nous avons créé un script bat sur Windows permettant à un administrateur de créer des machines virtuelles automatiquement, de pouvoir choisir leur nom et leurs caractéristiques. Le script est également capable de les supprimer, de les démarrer, de les lister et de les arrêter.
